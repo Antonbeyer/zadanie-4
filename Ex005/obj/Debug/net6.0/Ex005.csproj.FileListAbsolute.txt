@@ -1,0 +1,5 @@
+C:\Users\anton\Desktop\Git\задание 4\Ex004\Ex005\obj\Debug\net6.0\Ex005.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Git\задание 4\Ex004\Ex005\obj\Debug\net6.0\Ex005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Git\задание 4\Ex004\Ex005\obj\Debug\net6.0\Ex005.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Git\задание 4\Ex004\Ex005\obj\Debug\net6.0\Ex005.AssemblyInfo.cs
+C:\Users\anton\Desktop\Git\задание 4\Ex004\Ex005\obj\Debug\net6.0\Ex005.csproj.CoreCompileInputs.cache
